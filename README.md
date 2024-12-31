@@ -1,7 +1,7 @@
 # Paytm Merchant Payment Verification Api Using Merchant ID & Order ID
 
-## How to Setup 🔧
-- Upload `paytm.php` file in your file manager. You will need your `merchant ID`, `merchant key`, and `website` name.
+## How to Use 🔧
+- Upload `paytm.php` file in your file manager. You will need your `merchant ID`, and `order ID` name.
 
 ```js
 https://yourdomain.com/paytm.php?mid={mid}&oid={oid}
