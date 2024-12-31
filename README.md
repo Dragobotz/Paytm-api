@@ -6,5 +6,5 @@
 ```js
 https://yourdomain.com/paytm.php?mid={mid}&oid={oid}
 ```
-- mid = Your Paytm Merchant Id
-- oid = Your transaction Id or Order Id
+- `mid` = Your Paytm Merchant Id
+- `oid` = Your transaction Id or Order Id
